@@ -1,4 +1,5 @@
-### Hi there 👋
+### TIL
+> Today I Learned
 
 <!--
 **k1mjunyoung/k1mjunyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
