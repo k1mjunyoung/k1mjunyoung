@@ -7,9 +7,9 @@ Hi I'm Kim Jun Young, a Software Engineer.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1mjunyoung&bg_color=#5383E8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![k1mjunyoung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mjunyoung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/k1mjunyoung)  
 
 ### TECH STACK
+[![k1mjunyoung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mjunyoung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/k1mjunyoung)  
 #### Languages
 
 <img src="https://img.shields.io/badge/Language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
