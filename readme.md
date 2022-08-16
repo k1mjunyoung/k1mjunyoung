@@ -3,7 +3,7 @@
 ### INTRO
 
 Hi I'm Kim Jun Young, a Software Engineer.  
-소프트웨어 엔지니어, 김준영입니다.
+소프트웨어 엔지니어, 김준영입니다.  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1mjunyoung&bg_color=#5383E8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
