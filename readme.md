@@ -1,6 +1,6 @@
 <div align="center"> 
 
-### INTRO
+## 🙋‍♂️ INTRO
 
 Hi I'm Kim Jun Young, a Junior Developer.  
 공대생 개발자, 김준영입니다.  
@@ -8,7 +8,7 @@ Hi I'm Kim Jun Young, a Junior Developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1mjunyoung&bg_color=#5383E8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### TECH STACK
+### 🚀 TECH STACK
 [![k1mjunyoung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mjunyoung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/k1mjunyoung)  
 #### Languages
 
