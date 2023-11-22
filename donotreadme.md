@@ -17,3 +17,5 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=unknownstar)](https://solved.ac/unknownstar)
