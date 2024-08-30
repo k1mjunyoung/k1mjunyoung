@@ -12,7 +12,7 @@
       "Java", "Spring", "Spring-Boot", "JPA",
       "MySQL", "Git", "AWS"
     ],
-    "learning": ["Spring-Core", "Spring-Security", "Redis"]
+    "learning": ["Spring-Core", "Mage-ai"]
   }
 }
 ```
