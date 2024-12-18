@@ -1,16 +1,17 @@
 ```json
 {
   "name": "Kim Jun Young",
-  "role": "Back-end",
+  "role": "Backend",
   "education": "Bachelor of Science in Information Security Engineering, SCH University",
-  "club": "LikeLion 11th at SCH",
-  "website": "https://kimjunyoung.com",
+  "club": "LikeLion 11th",
+  "homepage": "https://kimjunyoung.com",
+  "blog": "https://tech.kimjunyoung.com",
   "tech": {
     "familiar": [
-      "Java", "Spring", "Spring-Boot", "JPA",
-      "MySQL", "Git", "AWS"
+      "Java", "OOP", "Spring", "Spring-Boot", "JPA",
+      "RDB", "Git", "AWS"
     ],
-    "learning": ["Spring-Core", "OOP", "TDD", "Algorithm"]
+    "learning": ["Effective-Java", "Spring-Core", "Redis", "NoSQL", "TDD", "Algorithm"]
   }
 }
 ```
